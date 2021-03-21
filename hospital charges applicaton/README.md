@@ -11,5 +11,5 @@ Create an application that calculates the total cost of a hospital stay. The dai
 Create and use the following value-returning methods in the application:
 
 * `CalcStayCharges` — calculates and returns the base charges for the hospital stay. This is computed as $350 times the number of days in the hospital.
-* `CalcMiscCharges` —calculates and returns the total of the medication, surgical, lab, and physical rehabilitation charges.
-* `CalcTotalCharges` —calculates and returns the total charges.
+* `CalcMiscCharges` — calculates and returns the total of the medication, surgical, lab, and physical rehabilitation charges.
+* `CalcTotalCharges` — calculates and returns the total charges.
